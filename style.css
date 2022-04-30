@@ -1,0 +1,33 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+ margin: 25px 50px 75px 100px
+  height: 100%;
+  text-align: center;
+  font-size : 20px;
+  }
+#container img{
+  background-size: cover;
+  max-width: 300px;
+  max-height: 300px;
+  
+}
+h1{
+  color: blue;
+}
+
+ul li{
+  text-align: left;
+}
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
